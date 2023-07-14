@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Javascript, CSS and HTML.
 - 💞️ I’m looking to collaborate on Github.
-- 📫 You can reach me on Github. I'll be morethan happy to provide assistance.
+- 📫 You can reach me on Github. I'll be more than happy to provide assistance.
 
 <!---
 Aaren9/Aaren9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
